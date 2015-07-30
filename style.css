@@ -21,16 +21,7 @@ body{
 	height: 700px;
 	width: 15%;
 }
-.sidebarOne ul{
-	padding-left: 50px;
-}
-.sidebarOne ul li{
-	width: 50%;
-	float: left;
-	background-color: lightblue;
-	margin: 2px;
-	text-align: center;
-}
+
 .wrapper{
 	margin: auto;
 	width: 70%;
@@ -110,16 +101,6 @@ body{
 	float: right;
 	background-color: #E3E6E8;
 	height: 700px;
-}
-.sidebarTwo ul{
-	padding-left: 50px;
-}
-.sidebarTwo ul li{
-	width: 50%;
-	float: left;
-	background-color: lightblue;
-	margin: 2px;
-	text-align: center;
 }
 .register{
 	clear: both;
