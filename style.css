@@ -1,0 +1,173 @@
+*{
+	margin: 0;
+	padding: 0px;
+	font-family: "Book Antiqua";
+}
+ul li{list-style: none;}
+body{
+	margin: auto;
+	/* background-color: lightblue; */
+}
+.topMost{
+	height: 48px;
+	background-color: #038D98;
+	/* background-color: #242429; */
+	color: white;
+}
+.sidebarOne{
+	margin: auto;
+	float: left;
+	background-color: #E3E6E8;
+	height: 700px;
+	width: 15%;
+}
+.sidebarOne ul{
+	padding-left: 50px;
+}
+.sidebarOne ul li{
+	width: 50%;
+	float: left;
+	background-color: lightblue;
+	margin: 2px;
+	text-align: center;
+}
+.wrapper{
+	margin: auto;
+	width: 70%;
+	float: left;
+	height: 700px;
+	/* background-color: lightblue; */
+}
+.title{
+	margin-top: 5px;
+	height: 180px;
+	border-top: 24px solid #A1A1A1;
+	border-bottom: 24px solid #A1A1A1;
+}
+.heading{
+	font-size: 3.6em;
+	background-color: ;
+	position: relative;
+	text-align: center;
+	padding-top: 10px;
+}
+.subHeading{
+	text-align: center;
+	letter-spacing: 1.0em;
+}
+#subsubHeading{
+	font-size: 0.8em;
+	color: gray;
+	letter-spacing: 0.4em;
+}
+.location{
+	color: red;
+	text-align: center;
+	letter-spacing: 0.1em;
+	height: 50px;
+	padding-top: 6px;
+}
+.menuBar{
+	height: 50px;
+	text-align: center;
+}
+.menuBar ul li{
+	margin-left: 80px;
+	margin-right: 30px;
+	text-align: center;
+	text-transform: uppercase;	
+}
+.menuBar ul li a{color: gray;}
+.menuBar ul li a:hover{color: red;}
+.imgSlideSpace{
+	height: 300px;
+}
+.imgSlideSpace ul li{
+	list-style: none;
+	text-align: center;
+	/* float: left; */
+}
+.noteBar{
+	letter-spacing: 0.1em;
+	font-family: "Arial Narrow";
+	text-align: center;
+	height: 35px;
+}
+.footerBar{
+	height: 30px;
+	background-color: #4E5B63;
+	background-color: #263238;
+	/* background-color: #242429; */
+	color: #BEBEBF;
+	color: white;
+	text-align: center;
+	font-size: 0.8em;
+	padding-top: 5px;
+}
+.sidebarTwo{
+	margin-right: auto;
+	width: 15%;
+	float: right;
+	background-color: #E3E6E8;
+	height: 700px;
+}
+.sidebarTwo ul{
+	padding-left: 50px;
+}
+.sidebarTwo ul li{
+	width: 50%;
+	float: left;
+	background-color: lightblue;
+	margin: 2px;
+	text-align: center;
+}
+.register{
+	clear: both;
+	margin: auto;
+	width: 650px;	
+	height: 300px;
+	/*background-color: blue;*/
+}
+.regimg{
+	border-style: solid;
+	height: 100px;
+	margin: 5px;
+	width: 100px;
+	background-color: #CCCC66;
+	float: left;
+}
+.regimgname{
+	width: 100px;
+	float: left;
+	text-align: center;
+}
+.form{
+	clear: both;
+	float: left;
+	margin-left: 20px;
+	width: 500px;	
+	background-color: lightblue;
+	padding: 5px;
+}
+.aboutcontent{
+	clear: both;
+	margin: 0px auto;
+	width: 600px;
+	height: 300px;
+	padding: 5px;
+	text-align: center;
+	color: green;
+	/*background-color: pink;*/
+}
+.attendance{
+	margin: 0px auto;
+	width: 55%;
+	background-color: lightyellow;	
+}
+table th td{
+	border: 1px solid red;
+}
+.but{
+	font-size: 30px;
+	color: blue;
+}
